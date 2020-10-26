@@ -77,8 +77,8 @@ router.delete('/account/:id', async (req, res, next) => {
   });
 });
 
-//@route    GET /fb/account/number/:accNum
-//@desc     Get account by account number
+//@route    GET /fb/account/state/:state
+//@desc     Get account by state
 router.get('/account/state/:state', async (req, res, next) => {
   const state = req.params.state;
   let account;
