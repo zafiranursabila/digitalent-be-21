@@ -4,9 +4,10 @@ dotenv.config();
 import express from 'express';
 import morgan from 'morgan';
 
-import elasticRouter from './routes/elasticsearch.routes';
+// import elasticRouter from './routes/elasticsearch.routes';
+import firebaseRouter from './routes/firebase.routes';
 
-const PORT = process.env.PORT || 3000;
+const PORT = process.env.PORT || 4000;
 
 const app = express();
 
@@ -25,7 +26,8 @@ app.use((err: Error, req: express.Request, res: express.Response, next: express.
 app.get('/', async (req, res, next) => {
   res.json({message: 'success'});
 })
-app.use('/es', elasticRouter);
+// app.use('/es', elasticRouter);
+app.use('/fb', firebaseRouter);
 
 app.listen(PORT, () => {
   console.log(`App is listening to port ${PORT}`);

@@ -1,3 +1,12 @@
 export const serviceAccountCredentials = {
-
+  "type": "service_account",
+  "project_id": "digitalent-be-21",
+  "private_key_id": "c7a41514232856aada1386341a1d0737c6f979e0",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCm9NJPhk3JYM3y\nP6IEKvtqbczwO01ukH1h3sOf6WNUyesYuFB6D0fgxXxHozrzeqaESM3Br0WsLkyk\n0Is2NoyDatZrJqX/29eoH1bfeZofex+xZzsy32DVqaE6inBWZ0fwc6zhCN+chR0y\nbFIK3zGrEsYlhqalExn0hGbqTJyet9YuMkObVKvb00zJad25N3JI6g3x9n+H/znu\nPQW4QoGzgB5zEtsXoWJLkmRE+vRDgff/rU3o1+NIg7U9BKuwox+9NjG7SSZ1eGC8\nGQVb4bpNqeuQfHSknXasg9qJs5QqMI8jCx3b0SKdyUEa5gf77+GI/c/HV+GfIR8W\nmcILWHXHAgMBAAECggEAAThSKxuZPB374BSZjsjW0nwsuBqu1UTmbacoX2Xf5tg2\nfBVCUH05GL1IsoG3JhCHRyzJa1KbdaEjyHAi4rAH9QcV7wcdLAWQVpDedfHLb9La\nze724a3JMhAakGg/khoQgZzOyBj9zVGzTDft0SXryBfyIIcSqhHw9oNbK/e7jNta\nNtPHxlcMbJyX6qJF4B0JGXokurRCkrptFz7rO7p5HityIa9G8Km008IAXx624D8s\npS205yriuRUsW6yj8R6NvvlrIenDw6RzBS0UhAxEo0Mg6ePIKRAFbKmrc2HFx7FM\n536PZUbfC2gmqvy7KOnAMCAHFnkwF7A4F/3v8f1ecQKBgQDhauoPHY8mfcB246xx\nBo7qztBqa1+YDkrwm17NTAcWvFWcZUIfEpgTHYz0ONwcU3CkdRZ1e0npEABhzrb7\nLqT6i+kEeUKjgW0qJOYSVyqiniLuCvS1FQsYa3Su44pgCAV8CKSlpHPDej39RN3E\nGGe3n6WY+Ehevqr9nqBmaYdAlwKBgQC9m3Xa8R3nDXPlcD/nwrBvCnYdKm/ycKur\ne89e8GzJSspXHNTxuK01zrG1y7a2tYGx3NR9aA4CXOsdhZxr1qtOqMtUNdbJnj1t\novWIaZhPQ3UmI2NDu7xx4YlqswgHJGyBmWB85o6lf5jo4yEmhJa0ADceN/Q2qVed\n9hz+OvXqUQKBgEoHhbTPHVsjw1iILvKzl64Pm6zHdI6Iax4XuIuto0pZMbh6HLv9\nrEni047FOaxnzr+D4ItWoRBUe/ujGr7lM7NAzZb1h+gQslw73/839z2Ot6P7nx/1\nOD6d06U3/xLIr5xrbj8kAgy5kbAitL4Y0b8hRA43w/Sxo5BFTyIzGAMjAoGACl24\neMrb5qjuoCmd5M7ZFIkO4hNS4X9Vc1+me7tLR0oGe/LAlaKSHbH6N0U27RBJUe8P\n0vdgZLKtzARlA+RNo1RJIYZ8ArPbCeZx5A5Z3GOEwRwILkjSSauZ9rJpCvLr174J\n72ovfE7Yjkr0ogV3s8mbOdS3TlG9z44IEcIpdbECgYAuP5UVXMKrZBV9ld99U0ai\n2wScc5geYvM7SwK+h4akU7aXnhSOVJpsAvhAy/RCG0FlY/aKjx+cASOZZ5pG1ReY\nMETi+cTUxbgLK/Q2+Zb8qXygzKS45yzJ6w+8BVohHEjv+juPvxEzYWEEMCpCiUGX\nVFcx7+ZgGR6Tgl+RzxzBJw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-ltaln@digitalent-be-21.iam.gserviceaccount.com",
+  "client_id": "111743837922676405309",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-ltaln%40digitalent-be-21.iam.gserviceaccount.com"
 };
