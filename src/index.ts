@@ -19,6 +19,7 @@ app.use((err: Error, req: express.Request, res: express.Response, next: express.
 });
 
 //routes
+// postman: https://www.getpostman.com/collections/09cb030a16b68e2da7a9
 app.get('/', async (req, res, next) => {
   res.json({message: 'success'});
 })
