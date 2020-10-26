@@ -39,6 +39,18 @@ export class FirebaseClient {
 
   }
 
+  async getDataById(id: string) {
+
+  }
+
+  async updateData(id: string) {
+
+  }
+
+  async deleteData(id: string) {
+    
+  }
+
   async getDataByAccountNumber(accountNumber: number) {
 
   }
