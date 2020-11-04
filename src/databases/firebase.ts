@@ -18,7 +18,7 @@ export type Account = {
 
 admin.initializeApp({
   credential: admin.credential.cert(serviceAccount),
-  databaseURL: 'https://digitalent-be-21.firebaseio.com',
+  databaseURL: 'https://digitalent-be-21-47334.firebaseio.com',
 });
 
 const db = admin.firestore();

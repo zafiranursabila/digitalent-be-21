@@ -1,3 +1,4 @@
+
 import { Router } from 'express';
 import { FirebaseClient } from '../databases/firebase';
 const firebaseClient = new FirebaseClient();
